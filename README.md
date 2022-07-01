@@ -4,4 +4,4 @@ This repository contains the tasks that I completed while working as an intern f
 Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month ( July-2022 )
 Internship Type - Work from Home
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
+#In this internship, we were provided a total of n Tasks and I was able to successfully complete all the n tasks within the given time-frame.
